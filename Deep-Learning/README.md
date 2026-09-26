@@ -12,18 +12,9 @@ HW1.ipynb - Homework 1: Initial neural network implementations.
 (Future HW notebooks will be added here)
 
 ### 🚀 Projects
-All major course projects will be organized in the projects/ directory.
+All major course projects are organized in the `projects/` directory.
 
-(Future deep learning project folders will be added here)
-
-## 🛠️ Project Environment Setup
-This workspace uses an isolated virtual sandbox running **Python 3.12.5** to ensure package stability.
-
-### Reactivation
-If you close your terminal or restart your computer, reactivate the sandbox by running:
-```bash
-source .venv/bin/activate
-```
-
-## 📦 Foundational Tooling
-*   `ipykernel` (VS Code local notebook communication engine) 
+- **`projects/Seizure-Classification/`** — **EEG Epilepsy Classification (BEED Dataset)**
+  - Systematic hyperparameter tuning and model architecture comparison (1, 2, and 3-layer MLPs) using PyTorch.
+  - Implemented leak-free patient-stratified validation, early stopping, and automated global checkpointing to track model metadata (learning rate, dropout, weight decay).
+  - Selected the optimal 1-layer MLP configuration ($LR = 0.003$, $WD = 0.01$, $Dropout = 0$) and achieved a validation loss of $0.4538$

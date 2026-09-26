@@ -9,7 +9,7 @@ All homework notebooks are organized in the homework/ directory.
 
 HW1.ipynb - Homework 1: Initial neural network implementations.
 
-(Future HW notebooks will be added here)
+HW2.ipynb - Homework 2: Autoencoder Bottleneck Dimensions and Reconstruction Analysis
 
 ### 🚀 Projects
 All major course projects are organized in the `projects/` directory.

@@ -16,7 +16,7 @@ Coursework and projects in machine learning and deep learning, with a focus on b
 
 ### [EEG Seizure Classification](Deep-Learning/Projects/Seizure-Classification) — Completed
 
-A PyTorch MLP classifies 16-channel EEG recordings from the BEED dataset into four classes: Healthy, Generalized, Focal, and Seizure Event. Data is split at the patient level, so no patient appears in more than one of the training, validation, and test sets. Final held-out test accuracy: **81.33%**, macro F1 **0.8045**. Key findings and full method are in the project README.
+A PyTorch MLP classifies 16-channel EEG recordings from the BEED dataset into four classes: Healthy, Generalized, Focal, and Seizure Event. Data is split at the patient level, so no patient appears in more than one of the training, validation, and test sets. Method, key findings, and results are in the project README.
 
 ### [Brain-Age Estimation from Structural MRI](Projects/Brain-Age) — In Progress
 

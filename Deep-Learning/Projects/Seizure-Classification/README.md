@@ -2,7 +2,7 @@
 
 Four-class classification of 16-channel EEG recordings with PyTorch MLPs, developed as a systematic study of architecture and hyperparameter choices.
 
-**Status:** Completed — Deep Learning course project (MTH5320)
+**Status:** Completed — Deep Learning course project (MTH4320)
 **Dataset:** Bangalore EEG Epilepsy Dataset (BEED), UCI Machine Learning Repository
 **Framework:** PyTorch
 

@@ -12,4 +12,4 @@ Coursework for MTH4320 Deep Learning at Florida Institute of Technology — home
 
 ## Course Project
 
-**[EEG Seizure Classification](Projects/Seizure-Classification)** — a PyTorch MLP that classifies 16-channel EEG recordings (BEED dataset) into Healthy, Generalized, Focal, and Seizure Event, developed through systematic architecture and hyperparameter experiments with leak-free, patient-level data splits. Final held-out test accuracy: **81.33%**, macro F1 **0.8045**. Method, key findings, and the trained model are in the project folder.
+**[EEG Seizure Classification](Projects/Seizure-Classification)** — a PyTorch MLP that classifies 16-channel EEG recordings (BEED dataset) into Healthy, Generalized, Focal, and Seizure Event, developed through systematic architecture and hyperparameter experiments with leak-free, patient-level data splits. Method, key findings, results, and the trained model are in the project folder.

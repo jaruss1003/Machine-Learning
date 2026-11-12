@@ -1,0 +1,6 @@
+.venv/
+data/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+unet_brats_segmentation_guide.pdf

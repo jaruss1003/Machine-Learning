@@ -1,0 +1,5 @@
+name,lr,loss,flips,skips,best_val_dice
+dice_loss,0.0003,dice,False,True,0.8050728208609741
+flips,0.0003,dice,True,True,0.7922687072605983
+baseline,0.0003,bce,False,True,0.7674
+no_skips,0.0003,dice,False,False,0.7240474209787636

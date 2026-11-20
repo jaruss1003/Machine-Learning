@@ -64,7 +64,7 @@ the final overlays, the wrong-pixel map) and the result tables as
 | `unet_brats_segmentation.ipynb` | The whole project: data preparation, model, staged experiments, final test evaluation, figures |
 | `requirements.txt` | torch, nibabel, numpy, matplotlib, ipykernel |
 | `setup.sh` | One-time environment setup — creates `.venv` and installs the requirements |
-| `outputs/` | Where the notebook saves its figures and result tables — generated, not committed |
+| `outputs/` | Where the notebook saves its figures and result tables |
 | `data/` | BraTS case folders (not tracked — too large for GitHub) |
 | `<run>_best.pt` | Best weights per run, written by the notebook as each run improves |
 
